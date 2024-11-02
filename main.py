@@ -1,4 +1,4 @@
-# main.pyfrom juego import Juego
+
 from interfaz import Interfaz
 
 if __name__ == "__main__":
